@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int a;
+    int b;
     cout << "git\n";
     return 0;
 }
